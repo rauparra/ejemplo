@@ -1,3 +1,5 @@
 print("hola mundo")
 print("hola mundo 2")
 print("que tal mundo")
+print("nueva linea de comando")
+print("otra linea para probar status naranja M")
